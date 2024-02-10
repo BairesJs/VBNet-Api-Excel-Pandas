@@ -1,0 +1,15 @@
+C:\xampp\htdocs\dashboard\php-2022\0-Data-Analytics\17-VBNet-Excel-Pandas\WindowsApp1\obj\Debug\WindowsApp1.vbproj.AssemblyReference.cache
+C:\xampp\htdocs\dashboard\php-2022\0-Data-Analytics\17-VBNet-Excel-Pandas\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+C:\xampp\htdocs\dashboard\php-2022\0-Data-Analytics\17-VBNet-Excel-Pandas\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+C:\xampp\htdocs\dashboard\php-2022\0-Data-Analytics\17-VBNet-Excel-Pandas\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+C:\xampp\htdocs\dashboard\php-2022\0-Data-Analytics\17-VBNet-Excel-Pandas\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+C:\xampp\htdocs\dashboard\php-2022\0-Data-Analytics\17-VBNet-Excel-Pandas\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+C:\xampp\htdocs\dashboard\php-2022\0-Data-Analytics\17-VBNet-Excel-Pandas\WindowsApp1\bin\Debug\WindowsApp1.exe
+C:\xampp\htdocs\dashboard\php-2022\0-Data-Analytics\17-VBNet-Excel-Pandas\WindowsApp1\bin\Debug\WindowsApp1.pdb
+C:\xampp\htdocs\dashboard\php-2022\0-Data-Analytics\17-VBNet-Excel-Pandas\WindowsApp1\bin\Debug\WindowsApp1.xml
+C:\xampp\htdocs\dashboard\php-2022\0-Data-Analytics\17-VBNet-Excel-Pandas\WindowsApp1\bin\Debug\Newtonsoft.Json.dll
+C:\xampp\htdocs\dashboard\php-2022\0-Data-Analytics\17-VBNet-Excel-Pandas\WindowsApp1\bin\Debug\Newtonsoft.Json.xml
+C:\xampp\htdocs\dashboard\php-2022\0-Data-Analytics\17-VBNet-Excel-Pandas\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CopyComplete
+C:\xampp\htdocs\dashboard\php-2022\0-Data-Analytics\17-VBNet-Excel-Pandas\WindowsApp1\obj\Debug\WindowsApp1.exe
+C:\xampp\htdocs\dashboard\php-2022\0-Data-Analytics\17-VBNet-Excel-Pandas\WindowsApp1\obj\Debug\WindowsApp1.xml
+C:\xampp\htdocs\dashboard\php-2022\0-Data-Analytics\17-VBNet-Excel-Pandas\WindowsApp1\obj\Debug\WindowsApp1.pdb
